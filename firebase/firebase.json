@@ -1,0 +1,4 @@
+{
+  "firestore": { "rules": "boundary/firestore.rules" },
+  "storage": { "rules": "boundary/storage.rules" }
+}

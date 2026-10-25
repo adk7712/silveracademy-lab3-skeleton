@@ -1,0 +1,5 @@
+{
+  "name": "silveracademy-skeleton",
+  "private": true,
+  "devDependencies": { "typescript": "^5.4.0" }
+}
