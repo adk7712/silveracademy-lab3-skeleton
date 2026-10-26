@@ -2,8 +2,6 @@
 
 This is a TODO-only skeleton built from the Lab 3 class diagram. It is not a working application: every file holds a doc comment and a TODO marker only. It compiles with `npx tsc --noEmit`.
 
-Part of the SC2006 SilverAcademy project. Team repository: https://github.com/adk7712/SilverAcademy
-
 ## Contents
 
 AI-generated initialisation outputs are in `ai-generated/`:
